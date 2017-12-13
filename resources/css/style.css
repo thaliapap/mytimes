@@ -1,0 +1,14 @@
+header{
+  display:flex;
+}
+.logo{
+  display:flex;
+}
+
+nav{
+  display:flex;
+}
+nav span{
+  display:inline-block;
+  padding: 20px 20px;
+}
