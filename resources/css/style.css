@@ -6,7 +6,7 @@ header{
   font-weight: bold;
   border-bottom: 1px solid black;
   height: 80px;
-  width: 100%
+  width: 100%;
 }
 .logo{
   display:flex;
@@ -28,4 +28,8 @@ nav span{
   position: fixed;
   color: black;
   padding: 20px 20px;
+}
+a{
+  color: black;
+
 }
