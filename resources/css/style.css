@@ -29,6 +29,7 @@ nav{
 nav span{
   display:inline-block;
   padding: 20px 20px;
+  align-content: flex-end;
 }
 a{
   color: black;
