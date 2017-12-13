@@ -5,6 +5,8 @@ header{
   font-size: 14px;
   font-weight: bold;
   border-bottom: 1px solid black;
+  height: 80px;
+  width: 100%
 }
 .logo{
   display:flex;
@@ -14,6 +16,7 @@ header{
 .logo span {
 
   color:MediumAquamarine;
+  padding: 20px 10px;
 }
 
 nav{
@@ -22,7 +25,6 @@ nav{
 
 nav span{
   display:inline-block;
-  align-content:center;
   position: fixed;
   color: black;
   padding: 20px 20px;
