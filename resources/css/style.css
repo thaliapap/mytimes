@@ -1,5 +1,5 @@
 header{
-  display:flex;
+  display: flex;
   position: fixed;
   font-family: Verdana;
   font-size: 14px;
@@ -7,9 +7,10 @@ header{
   border-bottom: 1px solid black;
   height: 80px;
   width: 100%;
+  z-index: 1;
 }
 .logo{
-  display:flex;
+  display: flex;
   padding-left: 30px;
 }
 
@@ -20,13 +21,11 @@ header{
 }
 
 nav{
-  display:flex;
+  display: flex;
 }
 
 nav span{
   display:inline-block;
-  position: fixed;
-  color: black;
   padding: 20px 20px;
 }
 a{
