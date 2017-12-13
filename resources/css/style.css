@@ -1,11 +1,14 @@
 header{
   display:flex;
+  position: fixed;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  border-bottom: 1px solid black;
 }
 .logo{
   display:flex;
+  padding-left: 30px;
 }
 
 .logo span {
@@ -19,5 +22,8 @@ nav{
 
 nav span{
   display:inline-block;
+  align-content:center;
+  position: fixed;
+  color: black;
   padding: 20px 20px;
 }
