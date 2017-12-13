@@ -23,6 +23,7 @@ header{
 
 nav{
   display: flex;
+  align-content: flex-end;
 }
 
 nav span{
